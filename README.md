@@ -1,27 +1,25 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Camilo Hurtado
+**Profesión:** _Tecnologo Analisis_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [camilohurtado1120956066@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Programador de software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Programador de software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - Actualidad)_
+- Titulo obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
+- **Tecnico en Recursos Humanos**
 - **Habilidad 2**
 - **Habilidad 3**
 
